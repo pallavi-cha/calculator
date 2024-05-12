@@ -35,6 +35,20 @@
             <button class="btn">9</button>
             </div>
             </div>
+            <div class="row">
+            <div class="col-auto">
+            <button class="btn">0</button>
+            <button class="btn">+</button>
+            <button class="btn">-</button>
+            </div>
+            </div>
+            <div class="row">
+            <div class="col-auto">
+            <button class="btn">/</button>
+            <button class="btn">*</button>
+            <button class="btn">%</button>
+            </div>
+            </div>
 
 </temple>
     <script>
